@@ -1,4 +1,4 @@
-# Valorant Skin Bundle — Reddit Sentiment Analysis
+# Sentiment Analysis - Purchase Intent Analysis
 
 **Predicting player purchase intent from Reddit comments using NLP & VADER**
 
@@ -9,6 +9,7 @@
 Valorant is Riot Games' free-to-play tactical shooter. The game earns revenue entirely through cosmetic skin bundles priced between $35–$100+. Before a bundle goes live, the community reacts on Reddit — and those reactions are a leading indicator of purchase conversion.
 
 This project scrapes Reddit comments from Valorant skin bundle announcement posts and classifies each comment into one of three purchase intent categories using NLP and VADER sentiment analysis.
+This project can also be used for other industry services and products launches by replacing the reddit post_id.
 
 ---
 
